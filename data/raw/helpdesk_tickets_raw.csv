@@ -1,0 +1,646 @@
+ticket,opened_raw,requester,dept_code,category,priority,resolution_hours,notes
+T-1000,01/01/2026,reem94@kku.edu.sa,SC,SOFTWARE,medium,36.6,Slow connection; call back 0587037391; room C-180
+T-1001,2026-01-01,reem16@kku.edu.sa,EE,LMS,High,5.6,Page not loading; call back 0546478854; room C-309
+T-1002,2026-01-01,khalid82@kku.edu.sa,CS, wifi ,medium,25.3,Printer jammed; room A-214
+T-1003,"Jan 01, 2026",omar84@kku.edu.sa,MD,software,LOW,79.5,Slow connection; room B-350
+T-1004,2026-01-03,noor46@kku.edu.sa, CS ,Account,MED,17.2,Student cannot connect
+T-1005,2026-01-04,lama12@kku.edu.sa,CS,SOFTWARE,Medium,20.7,Licence expired; call back 0564723098; room D-299
+T-1006,"Jan 04, 2026",huda29@kku.edu.sa,CS,Account,Med,20.4,Page not loading; room B-205
+T-1007,2026-01-04,noor39@kku.edu.sa,CS,account,high,2.6,Student cannot connect; call back 0566542070; room C-236
+T-1008,04/01/2026,huda25@kku.edu.sa,EE,Lms,LOW,44.9,Licence expired
+T-1009,05/01/2026,noor82@kku.edu.sa,EE,SOFTWARE,HIGH,7.0,Student cannot connect; call back 0532964734
+T-1010,2026-01-05,omar86@kku.edu.sa,IS,LMS,Medium,54.7,Mailbox full; room C-312
+T-1011,"Jan 05, 2026",lama66@kku.edu.sa,EE,Software,MED,25.2,Slow connection; call back 0549560150; room D-271
+T-1012,2026-01-06,sara64@kku.edu.sa,IS,Email,High,1.8,Slow connection; room A-132
+T-1013,"Jan 06, 2026",khalid38@kku.edu.sa, CS ,account,MED,6.4,Student cannot connect; room B-433
+T-1013,"Jan 06, 2026",khalid38@kku.edu.sa, CS ,account,MED,6.4,Student cannot connect; room B-433
+T-1014,"Jan 07, 2026",huda33@kku.edu.sa,IS,Software,Medium,24.0,Printer jammed; call back 0570127525
+T-1015,2026-01-07,ali73@kku.edu.sa,LW,printing,HIGH,7.8,Page not loading; call back 0586745636
+T-1016,"Jan 07, 2026",khalid11@kku.edu.sa,ba,printing,Med,24.9,Printer jammed
+T-1017,07/01/2026,lama83@kku.edu.sa,IS,SOFTWARE,MED,17.5,Page not loading; room B-486
+T-1018,"Jan 07, 2026",sara90@kku.edu.sa,BA,Email,medium,29.8,Password reset needed; call back 0535041907
+T-1019,2026-01-08,sara34@kku.edu.sa,CS,WiFi,medium,58.4,Slow connection; call back 0560122064; room A-290
+T-1020,"Jan 08, 2026",FAHAD21@KKU.EDU.SA,CS,LMS,low,82.2,Licence expired; room A-266
+T-1021,08/01/2026,omar13@kku.edu.sa,MD,account,low,46.3,Licence expired; call back 0583355856; room A-263
+T-1022,"Jan 09, 2026",sara52@kku.edu.sa,AR,account,MED,18.4,Slow connection
+T-1023,11/01/2026,reem18@kku.edu.sa,CS,E-mail,LOW,22.8,Mailbox full; call back 0553368004
+T-1023,11/01/2026,reem18@kku.edu.sa,CS,E-mail,LOW,22.8,Mailbox full; call back 0553368004
+T-1024,12/01/2026,sara60@kku.edu.sa,BA,email,,72.6,Password reset needed
+T-1025,12/01/2026,ali66@kku.edu.sa,is,wifi,high,4.4,Password reset needed; call back 0523633479; room D-350
+T-1026,2026-01-12,ali91@kku.edu.sa,IS,E-mail,low,unknown,Licence expired; room D-429
+T-1027,2026-01-12,lama26@kku.edu.sa,BA,Wi-Fi,LOW,40.8,Page not loading
+T-1028,2026-01-13,huda22@kku.edu.sa,LW,SOFTWARE,Med,25.6,Licence expired; call back 0525781758; room A-273
+T-1029,2026-01-14,saad94@kku.edu.sa,IS,Software,low,30.7,Student cannot connect; room D-141
+T-1030,2026-01-14,huda17@kku.edu.sa,MD,email,Low,124.4,Password reset needed; call back 0562013126; room C-281
+T-1031,"Jan 14, 2026",fahad48@kku.edu.sa,ee,LMS,,4.6,Slow connection
+T-1032,"Jan 14, 2026",sara40@kku.edu.sa,MD,account,low,71.0,Slow connection; room D-162
+T-1033,15/01/2026,lama34@kku.edu.sa,BA,email,MED,14.2,Slow connection; call back 0514628409; room A-128
+T-1034,15/01/2026,noor66@kku.edu.sa,EE, wifi ,high,12.7,Slow connection; call back 0558875427
+T-1035,"Jan 15, 2026",huda41@kku.edu.sa,EE,Email,MED,13.5,Printer jammed
+T-1036,16/01/2026,khalid32@kku.edu.sa,CS,printing,Medium,,Printer jammed; call back 0597870081; room C-309
+T-1037,18/01/2026,LAMA22@KKU.EDU.SA,AR,Lms,Med,24.3,Mailbox full; room B-308
+T-1038,"Jan 18, 2026",ali86@kku.edu.sa,IS,Wi-Fi,MED,10.8,Page not loading; call back 0582342889
+T-1039,"Jan 19, 2026",omar84@kku.edu.sa,CS,Printing,medium,15.7,Slow connection; call back 0550820363; room C-152
+T-1040,"Jan 19, 2026",saad69@kku.edu.sa,CS,SOFTWARE,medium,23.4,Printer jammed; room C-382
+T-1041,19/01/2026,omar32@kku.edu.sa,AR,SOFTWARE,Low,71.1,Password reset needed
+T-1041,19/01/2026,omar32@kku.edu.sa,AR,SOFTWARE,Low,71.1,Password reset needed
+T-1042,"Jan 19, 2026",saad16@kku.edu.sa,AR,WiFi,LOW,31.2,Page not loading; call back 0541474634; room A-419
+T-1043,"Jan 19, 2026",huda45@kku.edu.sa,IS, wifi ,MED,13.0,Password reset needed; call back 0564505777
+T-1044,20/01/2026,saad98@kku.edu.sa,LW,Software,LOW,36.9,Mailbox full; room D-453
+T-1045,"Jan 20, 2026",SARA78@KKU.EDU.SA, LW ,software,Medium,5.9,Licence expired; call back 0554257694; room D-280
+T-1046,2026-01-20,huda58@kku.edu.sa,ee,Lms,medium,10.3,Slow connection; call back 0552640881; room C-155
+T-1047,"Jan 20, 2026",omar85@kku.edu.sa,IS,LMS,Low,49.3,Printer jammed; room B-411
+T-1047,"Jan 20, 2026",omar85@kku.edu.sa,IS,LMS,Low,49.3,Printer jammed; room B-411
+T-1048,20/01/2026,LAMA43@KKU.EDU.SA,AR,E-mail,low,82.3,Printer jammed; call back 0559085824; room C-154
+T-1049,"Jan 22, 2026",reem79@kku.edu.sa,AR,E-mail,Med,121.2,Printer jammed
+T-1050,"Jan 22, 2026",lama50@kku.edu.sa,MD,Email,High,6.1,Student cannot connect; room A-198
+T-1051,2026-01-22,saad43@kku.edu.sa,IS,Lms,High,6.0,Mailbox full; call back 0592387820; room C-125
+T-1052,2026-01-22,lama28@kku.edu.sa,MD,Software,Low,70.2,Student cannot connect; room A-204
+T-1053,24/01/2026,huda88@kku.edu.sa,BA,Account,HIGH,10.8,Student cannot connect; room C-298
+T-1054,25/01/2026,khalid49@kku,MD,email,low,73.3,Page not loading; call back 0588889081
+T-1055,2026-01-25,omar96@kku.edu.sa,EE,Software,Medium,n/a,Slow connection; call back 0538793988; room A-158
+T-1056,2026-01-25,noor12@kku.edu.sa,EE,email,High,10.4,Student cannot connect
+T-1057,26/01/2026,huda73@kku.edu.sa,EE,lms,Medium,65.9,Password reset needed; room B-340
+T-1058,2026-01-26,noor71@kku.edu.sa,CS,Software,LOW,57.3,Page not loading
+T-1059,"Jan 26, 2026",huda22@kku.edu.sa,CS,Lms,Low,165.9,Page not loading; call back 0550579245; room A-362
+T-1060,"Jan 27, 2026",fahad63@kku.edu.sa,CS,WiFi,Low,10.5,Licence expired; room A-113
+T-1061,29/01/2026,fahad98@kku.edu.sa,LW,E-mail,medium,6.5,Page not loading
+T-1062,2026-01-29,huda19@kku.edu.sa,SC,Lms,low,82.3,Student cannot connect
+T-1063,"Jan 29, 2026",huda93@kku.edu.sa,MD,E-mail,Medium,9.8,Licence expired
+T-1064,2026-01-29,ali48@kku.edu.sa,LW,WiFi,LOW,49.2,Password reset needed; room C-436
+T-1065,2026-01-29,LAMA77@KKU.EDU.SA,EE,Wi-Fi,MED,29.1,Mailbox full; call back 0537832113
+T-1066,2026-01-31,huda27@kku.edu.sa,EE,Lms,Medium,29.3,Slow connection; room C-236
+T-1066,2026-01-31,huda27@kku.edu.sa,EE,Lms,Medium,29.3,Slow connection; room C-236
+T-1067,31/01/2026,ali62@kku.edu.sa,MD,LMS,High,4.7,Printer jammed; call back 0556640099; room B-315
+T-1068,2026-02-01,khalid19@kku.edu.sa,IS,WiFi,high,5.7,Licence expired
+T-1069,2026-02-01,lama71@kku.edu.sa,IS,wifi,MED,14.3,Licence expired; call back 0533383508; room B-198
+T-1070,"Feb 01, 2026",khalid48@kku.edu.sa,SC,ACCOUNT ,LOW,108.0,Page not loading; room B-146
+T-1071,2026-02-02,LAMA94@KKU.EDU.SA,SC,account,MED,20.3,Password reset needed; call back 0521738859
+T-1072,"Feb 03, 2026",ALI14@KKU.EDU.SA,AR,Printing,HIGH,4.2,Page not loading; room A-371
+T-1073,2026-02-03,huda57@kku.edu.sa,EE,Wi-Fi,medium,7.1,Password reset needed; call back 0584327742
+T-1074,03/02/2026,huda93@kku,BA,account,Med,28.0,Printer jammed; room C-468
+T-1075,2026-02-03,noor58@kku.edu.sa,LW,Lms,low,18.0,Password reset needed; call back 0567454003
+T-1076,03/02/2026,noor59@kku.edu.sa,CS,email,Medium,25.2,Licence expired; call back 0521726323; room B-379
+T-1077,"Feb 04, 2026",sara46@kku.edu.sa, CS ,account,HIGH,6.7,Mailbox full; call back 0533916478
+T-1078,04/02/2026,fahad59@kku.edu.sa,BA,wifi,MED,19.4,Page not loading; call back 0564801904
+T-1079,2026-02-04,khalid50@kku.edu.sa,MD, wifi ,medium,23.9,Password reset needed; room B-433
+T-1080,"Feb 05, 2026",huda56@kku.edu.sa,IS,account,Low,107.5,Mailbox full; call back 0583659084
+T-1081,2026-02-05,huda76@kku.edu.sa,MD, wifi ,MED,11.3,Licence expired; room D-450
+T-1082,07/02/2026,lama39@kku.edu.sa,CS,email,HIGH,16.7,Slow connection; call back 0595744142
+T-1083,"Feb 08, 2026",fahad80@kku.edu.sa,lw,email,medium,3.3,Printer jammed
+T-1084,"Feb 08, 2026",noor56@kku.edu.sa,CS,Email,High,4.0,Licence expired; room C-288
+T-1085,2026-02-08,reem73@kku.edu.sa, MD ,Lms,Med,29.8,Slow connection; call back 0545389991
+T-1085,2026-02-08,reem73@kku.edu.sa, MD ,Lms,Med,29.8,Slow connection; call back 0545389991
+T-1086,"Feb 08, 2026",lama51@kku.edu.sa,MD,SOFTWARE,Medium,11.6,Page not loading; room A-274
+T-1087,2026-02-09,HUDA36@KKU.EDU.SA,CS,Software,Low,87.7,Password reset needed; room B-419
+T-1088,"Feb 09, 2026",huda59@kku.edu.sa,SC,Email,,6.2,Password reset needed; call back 0539501921
+T-1088,"Feb 09, 2026",huda59@kku.edu.sa,SC,Email,,6.2,Password reset needed; call back 0539501921
+T-1089,"Feb 09, 2026",fahad27@kku.edu.sa,MD,Wi-Fi,Med,10.9,Mailbox full
+T-1090,2026-02-09,ali77@kku.edu.sa,CS,wifi,low,31.9,Licence expired
+T-1090,2026-02-09,ali77@kku.edu.sa,CS,wifi,low,31.9,Licence expired
+T-1091,"Feb 09, 2026",noor45@kku.edu.sa,ba, wifi ,high,5.1,Mailbox full; room B-297
+T-1092,"Feb 10, 2026",huda89@kku.edu.sa,MD,lms,MED,27.1,Password reset needed; call back 0574933928; room A-280
+T-1093,2026-02-11,sara42@kku.edu.sa,IS,wifi,medium,17.3,Licence expired; room C-244
+T-1094,2026-02-11,noor22@kku.edu.sa,IS,email,high,2.4,Printer jammed; call back 0530600074; room C-241
+T-1095,11/02/2026,KHALID44@KKU.EDU.SA,BA,wifi,Medium,17.6,Student cannot connect
+T-1096,12/02/2026,noor74@kku.edu.sa,CS,Software,LOW,62.8,Password reset needed; call back 0584759903
+T-1097,12/02/2026,reem39@kku.edu.sa,CS, wifi ,medium,21.8,Page not loading
+T-1098,12/02/2026,SARA53@KKU.EDU.SA,LW,Lms,Medium,n/a,Printer jammed
+T-1099,2026-02-12,OMAR92@KKU.EDU.SA,BA,printing,Medium,11.5,Mailbox full; call back 0515357185; room B-419
+T-1100,"Feb 12, 2026",saad79@kku.edu.sa,SC,Lms,Medium,42.9,Slow connection; room D-254
+T-1101,13/02/2026,ali96@kku.edu.sa,AR,Lms,MED,24.7,Student cannot connect
+T-1102,15/02/2026,ali71@kku.edu.sa,MD,Printing,LOW,68.0,Printer jammed
+T-1103,"Feb 16, 2026",omar71@kku.edu.sa,EE,account,LOW,34.0,Slow connection; call back 0585489190
+T-1104,"Feb 16, 2026",omar35@kku.edu.sa,CS,Software,low,71.0,Licence expired; room A-229
+T-1105,16/02/2026,lama96@kku.edu.sa,CS,SOFTWARE,low,145.4,Licence expired; room B-395
+T-1106,"Feb 16, 2026",khalid26@kku.edu.sa,LW, wifi ,medium,7.1,Licence expired
+T-1107,16/02/2026,fahad51@kku.edu.sa,MD,Account,Medium,14.7,Printer jammed
+T-1108,17/02/2026,ali77@kku.edu.sa,IS,Lms,high,8.7,Mailbox full; call back 0527689631
+T-1109,"Feb 17, 2026",fahad47@kku.edu.sa,MD,Lms,low,50.5,Mailbox full
+T-1110,2026-02-18,OMAR34@KKU.EDU.SA,LW,E-mail,Medium,7.1,Slow connection; room B-115
+T-1111,"Feb 18, 2026",khalid26@kku.edu.sa,IS,Lms,LOW,72.9,Page not loading; room B-439
+T-1112,"Feb 18, 2026",noor60@kku.edu.sa,IS,Software,medium,17.7,Page not loading; call back 0544309735; room B-406
+T-1113,19/02/2026,lama77@kku.edu.sa,BA,ACCOUNT ,MED,18.6,Slow connection; room A-140
+T-1114,22/02/2026,SAAD26@KKU.EDU.SA,EE,SOFTWARE,Med,15.9,Printer jammed; room D-285
+T-1115,22/02/2026,lama14@kku.edu.sa,md,wifi,MED,23.0,Page not loading; call back 0510096489; room C-389
+T-1116,22/02/2026,lama37@kku.edu.sa,MD,printing,Med,32.0,Slow connection
+T-1117,2026-02-23,khalid96@kku.edu.sa,cs,Wi-Fi,,12.9,Mailbox full
+T-1118,24/02/2026,khalid45@kku.edu.sa,BA,Printing,Low,74.4,Password reset needed; call back 0526373533
+T-1119,25/02/2026,reem81@kku.edu.sa,AR,E-mail,MED,11.7,Licence expired; call back 0570903514; room B-291
+T-1120,2026-02-25,REEM29@KKU.EDU.SA,LW,WiFi,LOW,117.8,Password reset needed; call back 0521208082; room B-184
+T-1120,2026-02-25,REEM29@KKU.EDU.SA,LW,WiFi,LOW,117.8,Password reset needed; call back 0521208082; room B-184
+T-1121,"Feb 25, 2026",sara57@kku.edu.sa,ee,SOFTWARE,Med,8.5,Mailbox full; call back 0575805847
+T-1122,2026-02-26,NOOR98@KKU.EDU.SA,LW,lms,Medium,13.8,Mailbox full; call back 0574501160; room A-176
+T-1123,2026-02-26,fahad92@kku.edu.sa,IS,Software,Low,31.5,Mailbox full
+T-1124,26/02/2026,huda54@kku.edu.sa,BA,Email,low,150.3,Printer jammed; room A-401
+T-1125,"Feb 26, 2026",fahad13@kku.edu.sa,CS,email,High,6.8,Mailbox full; room D-120
+T-1126,"Feb 28, 2026",SAAD34@KKU.EDU.SA,IS,email,Medium,18.6,Mailbox full; call back 0539518742
+T-1127,28/02/2026,lama62@kku.edu.sa, SC ,LMS,Medium,17.6,Printer jammed
+T-1128,2026-03-01,omar72@kku.edu.sa,BA,Wi-Fi,low,47.0,Mailbox full; call back 0525732318; room A-259
+T-1129,2026-03-01,lama54@kku.edu.sa,AR,printing,high,5.9,Student cannot connect; call back 0576360906; room B-183
+T-1130,"Mar 01, 2026",saad41@kku.edu.sa,BA,Printing,high,3.9,Page not loading
+T-1131,01/03/2026,sara58@kku.edu.sa,SC,printing,MED,20.9,Page not loading; call back 0563009146; room A-456
+T-1132,2026-03-01,khalid92@kku.edu.sa,CS,E-mail,Medium,20.8,Mailbox full
+T-1133,2026-03-01,REEM88@KKU.EDU.SA,SC,account,Med,40.5,Mailbox full
+T-1134,"Mar 02, 2026",omar38@kku.edu.sa,CS,Wi-Fi,Medium,18.3,Page not loading; call back 0537228899; room D-147
+T-1135,"Mar 02, 2026",sara69@kku.edu.sa,MD,E-mail,Med,32.0,Student cannot connect
+T-1136,"Mar 02, 2026",NOOR34@KKU.EDU.SA,CS,account,LOW,32.7,Mailbox full; room B-434
+T-1137,02/03/2026,huda82@kku.edu.sa,MD,software,medium,19.1,Password reset needed; call back 0536884994; room C-358
+T-1138,2026-03-03,noor26@kku.edu.sa,CS,LMS,High,15.0,Printer jammed; call back 0579996550
+T-1139,03/03/2026,reem35@kku.edu.sa,CS,Software,high,11.2,Password reset needed; room B-414
+T-1140,"Mar 03, 2026",sara85@kku.edu.sa, EE ,wifi,HIGH,4.3,Printer jammed
+T-1141,04/03/2026,fahad43@kku.edu.sa,ba,Wi-Fi,MED,29.3,Password reset needed; call back 0538914913
+T-1142,"Mar 04, 2026",fahad87@kku.edu.sa, BA ,LMS,low,38.1,Page not loading; call back 0535066859
+T-1143,04/03/2026,fahad20@kku.edu.sa,EE,wifi,medium,10.4,Student cannot connect; call back 0526183844; room B-320
+T-1144,2026-03-04,sara70@kku.edu.sa,EE,LMS,Low,37.7,Student cannot connect; call back 0557049704; room D-391
+T-1145,2026-03-05,huda62@kku.edu.sa,EE,E-mail,medium,28.2,Page not loading; room B-198
+T-1146,2026-03-05,huda38@kku.edu.sa,CS,Lms,Med,35.8,Mailbox full; call back 0567115549
+T-1147,2026-03-06,ali68@kku.edu.sa,IS,Account,Med,16.6,Licence expired
+T-1148,"Mar 07, 2026",saad72@kku.edu.sa,LW,account,Low,27.4,Licence expired
+T-1148,"Mar 07, 2026",saad72@kku.edu.sa,LW,account,Low,27.4,Licence expired
+T-1149,07/03/2026,omar67@kku.edu.sa,CS,Account,MED,23.9,Licence expired; room B-278
+T-1150,2026-03-07,sara43@kku.edu.sa,MD,LMS,Low,33.8,Printer jammed; call back 0555313733; room D-448
+T-1151,08/03/2026,ali89@kku.edu.sa,BA,Email,high,5.1,Printer jammed; room A-363
+T-1152,2026-03-08,ali82@kku.edu.sa,LW, wifi ,Medium,unknown,Licence expired; room B-373
+T-1153,2026-03-08,huda35@kku.edu.sa,SC,Wi-Fi,Medium,15.0,Printer jammed; call back 0597969922
+T-1154,2026-03-08,ali87@kku.edu.sa,MD,Wi-Fi,Low,70.7,Slow connection; room C-187
+T-1155,09/03/2026,huda40@kku.edu.sa,SC,Account,medium,7.3,Student cannot connect
+T-1156,09/03/2026,khalid16@kku.edu.sa,CS,lms,Low,66.7,Printer jammed; room D-114
+T-1157,09/03/2026,ali40@kku.edu.sa,AR,WiFi,Med,17.6,Page not loading; call back 0564187360; room D-224
+T-1158,"Mar 10, 2026",ali96@kku.edu.sa,AR,lms,high,3.0,Student cannot connect; room B-132
+T-1159,2026-03-10,saad24@kku.edu.sa,MD,Wi-Fi,low,42.7,Password reset needed
+T-1160,"Mar 10, 2026",noor95@kku.edu.sa,AR,LMS,medium,24.1,Password reset needed; room B-369
+T-1161,2026-03-10,ali36@kku.edu.sa,EE,ACCOUNT ,HIGH,4.4,Password reset needed; room A-473
+T-1162,10/03/2026,fahad42@kku.edu.sa,cs,lms,Med,6.6,Student cannot connect; room A-480
+T-1162,10/03/2026,fahad42@kku.edu.sa,cs,lms,Med,6.6,Student cannot connect; room A-480
+T-1163,"Mar 12, 2026",khalid41@kku.edu.sa, MD ,Printing,low,43.0,Licence expired; room C-331
+T-1164,12/03/2026,omar56@kku.edu.sa,CS,software,low,71.3,Mailbox full
+T-1165,12/03/2026,huda22.at.kku.edu.sa,BA,WiFi,Med,12.6,Slow connection
+T-1166,2026-03-12,khalid27@kku,IS,LMS,,58.6,Printer jammed
+T-1167,13/03/2026,KHALID93@KKU.EDU.SA,MD,Wi-Fi,Med,13.4,Mailbox full; call back 0534114689
+T-1168,2026-03-15,noor49@kku.edu.sa,MD,lms,Medium,6.6,Mailbox full; room A-141
+T-1169,2026-03-15,khalid32@kku.edu.sa,EE,software,medium,22.6,Page not loading; call back 0585834543; room C-485
+T-1170,2026-03-16,noor23@kku.edu.sa,CS,Email,LOW,51.0,Student cannot connect; room D-274
+T-1171,"Mar 16, 2026",omar11@kku.edu.sa,EE,Account,LOW,15.0,Page not loading; call back 0535320314
+T-1172,17/03/2026,HUDA13@KKU.EDU.SA,CS,wifi,High,12.5,Page not loading; call back 0556200260; room A-282
+T-1173,17/03/2026,noor73@kku.edu.sa,SC,Wi-Fi,medium,18.5,Password reset needed; call back 0595006581
+T-1173,17/03/2026,noor73@kku.edu.sa,SC,Wi-Fi,medium,18.5,Password reset needed; call back 0595006581
+T-1174,2026-03-17,khalid22@kku.edu.sa,AR,SOFTWARE,medium,15.1,Password reset needed; room D-175
+T-1175,2026-03-17,omar17@kku.edu.sa,IS,E-mail,High,6.1,Printer jammed; call back 0533074671; room C-243
+T-1176,2026-03-17,omar37@kku.edu.sa,BA, wifi ,MED,20.2,Printer jammed
+T-1177,17/03/2026,noor92@kku.edu.sa,is,email,LOW,58.3,Printer jammed; room C-254
+T-1178,2026-03-17,omar89@kku.edu.sa,MD,Lms,Medium,33.3,Mailbox full; call back 0511397112
+T-1179,"Mar 18, 2026",lama29@kku.edu.sa,ee,WiFi,Med,n/a,Page not loading
+T-1180,18/03/2026,khalid49@kku.edu.sa,ar,Email,medium,25.2,Page not loading; call back 0598719822; room A-385
+T-1181,2026-03-18,saad39@kku.edu.sa,BA,E-mail,MED,30.6,Page not loading; call back 0586144827; room A-449
+T-1182,"Mar 18, 2026",HUDA64@KKU.EDU.SA, AR ,Wi-Fi,MED,unknown,Licence expired; room A-469
+T-1183,2026-03-18,fahad18@kku.edu.sa,EE,Lms,medium,12.0,Password reset needed; room D-494
+T-1184,18/03/2026,sara28@kku.edu.sa,LW,software,,15.2,Password reset needed; call back 0563189938; room B-316
+T-1185,"Mar 18, 2026",khalid97@kku.edu.sa,BA,email,MED,49.0,Page not loading; call back 0554997312
+T-1186,19/03/2026,KHALID15@KKU.EDU.SA, IS , wifi ,medium,34.1,Slow connection; call back 0560130135
+T-1186,19/03/2026,KHALID15@KKU.EDU.SA, IS , wifi ,medium,34.1,Slow connection; call back 0560130135
+T-1187,2026-03-21,reem32@kku.edu.sa,MD,Account,Medium,12.5,Page not loading; call back 0545621251
+T-1188,"Mar 21, 2026",fahad30@kku.edu.sa,MD,email,Low,n/a,Student cannot connect; call back 0541571610; room D-158
+T-1189,"Mar 21, 2026",lama17@kku.edu.sa,LW,Lms,medium,33.6,Student cannot connect
+T-1190,"Mar 21, 2026",khalid73@kku.edu.sa,CS,wifi,LOW,170.0,Printer jammed; call back 0590845448; room C-311
+T-1191,"Mar 22, 2026",khalid98@kku.edu.sa, SC ,Software,HIGH,0.9,Password reset needed; room D-295
+T-1192,22/03/2026,OMAR93@KKU.EDU.SA,IS,wifi,,82.2,Student cannot connect; call back 0565228131; room D-192
+T-1193,22/03/2026,noor60@kku.edu.sa,CS,WiFi,Low,26.6,Page not loading; call back 0555401063
+T-1194,2026-03-22,lama53@kku.edu.sa,EE,printing,High,2.5,Student cannot connect; call back 0568694001; room A-382
+T-1195,"Mar 22, 2026",lama46@kku.edu.sa,CS,Lms,medium,16.0,Password reset needed
+T-1196,23/03/2026,saad13@kku.edu.sa,IS,email,medium,16.2,Page not loading; call back 0554950934
+T-1197,"Mar 23, 2026",sara77@kku.edu.sa,CS,Software,Low,78.7,Licence expired
+T-1198,"Mar 23, 2026",huda37@kku.edu.sa,CS,lms,High,10.7,Mailbox full; call back 0572871041; room C-472
+T-1199,2026-03-23,REEM64@KKU.EDU.SA,CS,Email,medium,19.8,Mailbox full; call back 0572489431
+T-1200,24/03/2026,omar61@kku.edu.sa,MD,WiFi,medium,14.5,Password reset needed; room C-465
+T-1201,24/03/2026,khalid57@kku.edu.sa,CS,Software,Med,23.4,Printer jammed; room A-101
+T-1201,24/03/2026,khalid57@kku.edu.sa,CS,Software,Med,23.4,Printer jammed; room A-101
+T-1202,24/03/2026,HUDA11@KKU.EDU.SA,LW,Software,low,n/a,Student cannot connect; room C-136
+T-1203,2026-03-24,ali61@kku.edu.sa,LW,account,low,34.5,Licence expired; room B-456
+T-1204,2026-03-25,ali29@kku.edu.sa,BA,Lms,high,13.7,Mailbox full; room B-468
+T-1205,25/03/2026,FAHAD94@KKU.EDU.SA,EE,Wi-Fi,HIGH,8.1,Mailbox full; call back 0533011451
+T-1206,2026-03-25,saad66@kku.edu.sa,CS,Wi-Fi,LOW,44.8,Mailbox full; call back 0593604372
+T-1207,"Mar 25, 2026",huda34@kku.edu.sa,MD,Wi-Fi,medium,14.6,Licence expired; room D-367
+T-1208,25/03/2026,fahad66@kku.edu.sa,IS,Account,Med,27.1,Mailbox full; call back 0559594350
+T-1209,"Mar 26, 2026",sara44@kku.edu.sa,CS,lms,MED,23.7,Mailbox full; room B-237
+T-1210,2026-03-26,reem67@kku.edu.sa,BA,E-mail,LOW,56.2,Page not loading
+T-1211,2026-03-26,lama43@kku.edu.sa, IS ,SOFTWARE,Med,15.7,Mailbox full
+T-1212,"Mar 27, 2026",sara32@kku.edu.sa,CS,SOFTWARE,Medium,25.5,Slow connection; room D-277
+T-1213,28/03/2026,omar54@kku.edu.sa,cs,wifi,Low,79.0,Mailbox full; call back 0586351517
+T-1214,"Mar 29, 2026",lama37@kku.edu.sa,CS,account,Med,17.0,Slow connection; call back 0590770547; room D-175
+T-1215,2026-03-29,reem31@kku.edu.sa,ee,Lms,Medium,58.1,Mailbox full
+T-1216,"Mar 29, 2026",sara76@kku.edu.sa,MD,Email,low,114.0,Password reset needed; call back 0572103101
+T-1217,2026-03-29,sara28@kku.edu.sa,CS,email,Med,39.4,Page not loading; room D-491
+T-1218,2026-03-29,huda89@kku.edu.sa,IS,Wi-Fi,Medium,15.9,Licence expired; call back 0558886052
+T-1219,2026-03-29,huda48@kku.edu.sa,CS,ACCOUNT ,Low,66.1,Printer jammed; call back 0588748506
+T-1220,2026-03-29,fahad74@kku.edu.sa,MD,email,high,9.6,Slow connection
+T-1221,"Mar 30, 2026",sara77@kku.edu.sa,cs,Lms,LOW,31.8,Slow connection; room B-420
+T-1222,2026-03-30,reem79@kku.edu.sa,AR,printing,Medium,30.2,Slow connection
+T-1223,"Mar 30, 2026",omar70@kku.edu.sa,md,LMS,LOW,69.8,Student cannot connect; room C-395
+T-1224,"Mar 30, 2026",saad17@kku.edu.sa,IS,lms,HIGH,10.2,Licence expired; call back 0531115565
+T-1225,31/03/2026,lama55@kku.edu.sa,AR,WiFi,Medium,46.9,Licence expired; call back 0579637771; room B-386
+T-1226,"Mar 31, 2026",fahad87@kku.edu.sa,CS,ACCOUNT ,high,5.4,Student cannot connect
+T-1227,2026-03-31,khalid79@kku.edu.sa,CS,printing,High,12.8,Page not loading
+T-1228,31/03/2026,lama35@kku.edu.sa,MD,Lms,medium,unknown,Password reset needed
+T-1229,01/04/2026,saad55@kku.edu.sa,MD,software,MED,31.8,Printer jammed; call back 0581851975; room A-480
+T-1230,01/04/2026,HUDA80@KKU.EDU.SA, IS ,WiFi,low,65.2,Slow connection
+T-1231,2026-04-01,HUDA51@KKU.EDU.SA,sc,email,Med,13.4,Password reset needed; call back 0545513899; room B-209
+T-1232,"Apr 01, 2026",noor44@kku.edu.sa,EE,Wi-Fi,Med,26.4,Licence expired; call back 0561797083; room C-173
+T-1233,01/04/2026,ali14@kku.edu.sa,IS, wifi ,high,8.6,Mailbox full; room B-460
+T-1234,2026-04-02,noor77@kku.edu.sa,cs, wifi ,LOW,28.2,Slow connection
+T-1235,02/04/2026,huda97@kku.edu.sa,cs,account,low,65.9,Page not loading
+T-1236,2026-04-02,lama22@kku.edu.sa,MD,Software,medium,9.0,Page not loading; call back 0557864042
+T-1237,2026-04-02,omar25@kku.edu.sa,EE,lms,LOW,42.4,Mailbox full; call back 0520841525; room A-456
+T-1238,"Apr 02, 2026",fahad42@kku.edu.sa,BA,wifi,Med,19.7,Slow connection; room B-477
+T-1239,2026-04-02,sara65@kku.edu.sa, AR ,SOFTWARE,Low,91.1,Student cannot connect
+T-1240,02/04/2026,sara98@kku.edu.sa,IS,Printing,Med,17.5,Slow connection; call back 0539732059
+T-1241,02/04/2026,khalid59@kku.edu.sa,CS,SOFTWARE,low,32.6,Printer jammed; room D-171
+T-1242,03/04/2026,lama77@kku.edu.sa,EE,WiFi,Medium,14.2,Licence expired; room D-242
+T-1243,"Apr 03, 2026",huda52@kku.edu.sa,cs,Account,Low,45.8,Page not loading; call back 0539141931
+T-1244,"Apr 04, 2026",khalid87@kku.edu.sa,SC,Lms,Medium,13.1,Printer jammed
+T-1245,05/04/2026,saad50@kku.edu.sa, CS ,Software,Med,21.4,Printer jammed; call back 0543376781; room D-489
+T-1246,05/04/2026,lama74@kku.edu.sa,EE,LMS,Medium,44.0,Page not loading; call back 0510111252
+T-1247,"Apr 05, 2026",lama17@kku.edu.sa,SC,LMS,Low,unknown,Printer jammed
+T-1248,2026-04-06,noor16@kku.edu.sa,CS,account,Low,40.0,Slow connection; call back 0580957210
+T-1249,06/04/2026,sara72@kku.edu.sa,md,Lms,MED,12.4,Licence expired; call back 0563792896; room C-171
+T-1250,"Apr 06, 2026",noor59@kku.edu.sa,IS,lms,high,8.1,Printer jammed
+T-1251,06/04/2026,ali79@kku.edu.sa,CS,Lms,MED,11.5,Mailbox full
+T-1252,"Apr 06, 2026",khalid62@kku.edu.sa,AR,Lms,Med,21.2,Student cannot connect
+T-1253,06/04/2026,ali43.at.kku.edu.sa,IS,E-mail,,21.2,Password reset needed; room D-142
+T-1254,"Apr 06, 2026",fahad42@kku.edu.sa,BA,LMS,High,3.9,Printer jammed; call back 0574989601
+T-1255,"Apr 07, 2026",reem80@kku.edu.sa, CS ,account,Medium,18.6,Page not loading
+T-1256,2026-04-07,khalid88@kku.edu.sa,CS,lms,low,36.5,Student cannot connect
+T-1257,2026-04-07,saad11@kku.edu.sa,AR,Account,low,53.7,Mailbox full; call back 0529675110
+T-1258,2026-04-08,reem78@kku.edu.sa,BA,Wi-Fi,MED,14.0,Mailbox full; call back 0522444357
+T-1259,08/04/2026,ali62@kku.edu.sa,IS,lms,High,4.8,Printer jammed; room D-140
+T-1260,2026-04-09,khalid67@kku.edu.sa,LW,email,MED,57.3,Page not loading
+T-1260,2026-04-09,khalid67@kku.edu.sa,LW,email,MED,57.3,Page not loading
+T-1261,2026-04-09,sara69@kku.edu.sa,MD,Wi-Fi,low,36.4,Slow connection; room B-496
+T-1262,2026-04-11,noor11@kku.edu.sa,IS,Account,Low,79.0,Student cannot connect; call back 0590053567
+T-1263,"Apr 12, 2026",huda28@kku.edu.sa,CS,WiFi,Low,101.0,Printer jammed; call back 0579285824; room B-484
+T-1264,12/04/2026,saad84@kku.edu.sa,CS,LMS,,28.0,Mailbox full
+T-1265,"Apr 12, 2026",lama44@kku.edu.sa,AR,software,Med,25.4,Password reset needed; call back 0588146236
+T-1266,2026-04-13,fahad47@kku.edu.sa, AR ,E-mail,,42.2,Slow connection; call back 0573068137
+T-1267,"Apr 13, 2026",lama45@kku.edu.sa,AR,WiFi,Low,26.9,Page not loading; call back 0532302326; room A-189
+T-1268,"Apr 14, 2026",NOOR60@KKU.EDU.SA,SC,SOFTWARE,LOW,52.6,Licence expired
+T-1269,"Apr 14, 2026",huda55@kku.edu.sa,MD,Wi-Fi,medium,19.0,Slow connection
+T-1270,2026-04-14,lama50@kku.edu.sa, SC ,wifi,Low,135.2,Licence expired
+T-1271,2026-04-14,omar13@kku.edu.sa,ee,Account,low,161.8,Slow connection
+T-1272,2026-04-15,REEM64@KKU.EDU.SA,LW,Email,Med,14.9,Page not loading; call back 0554053404; room C-488
+T-1273,2026-04-15,reem50@kku.edu.sa,EE,Software,low,39.0,Slow connection; room B-171
+T-1274,"Apr 15, 2026",khalid87@kku.edu.sa,MD,LMS,Medium,24.5,Slow connection
+T-1275,2026-04-15,lama29@kku.edu.sa,SC,Email,Med,25.4,Licence expired; call back 0511514904
+T-1276,15/04/2026,huda69@kku.edu.sa, MD ,Wi-Fi,Med,18.4,Licence expired; room A-333
+T-1277,"Apr 15, 2026",noor23@kku.edu.sa,IS,Software,LOW,unknown,Page not loading; call back 0530832202
+T-1278,"Apr 15, 2026",khalid16@kku.edu.sa,AR,SOFTWARE,high,8.0,Page not loading; call back 0547549849
+T-1279,2026-04-16,reem22@kku.edu.sa,CS,Email,Low,59.0,Mailbox full; call back 0550876314; room A-211
+T-1280,"Apr 16, 2026",FAHAD56@KKU.EDU.SA,MD,Wi-Fi,HIGH,7.8,Licence expired; call back 0519609004; room D-175
+T-1281,2026-04-16,sara70@kku.edu.sa, BA ,printing,MED,28.5,Student cannot connect; call back 0589050543
+T-1282,"Apr 16, 2026",omar40@kku.edu.sa,MD,LMS,MED,19.7,Licence expired
+T-1283,2026-04-16,REEM56@KKU.EDU.SA,CS,Printing,low,108.9,Mailbox full; call back 0575873396
+T-1284,16/04/2026,reem19@kku.edu.sa,IS,wifi,LOW,21.9,Licence expired; room B-490
+T-1285,2026-04-16,fahad21@kku.edu.sa,IS,Lms,LOW,73.7,Student cannot connect; call back 0585690865; room B-340
+T-1286,16/04/2026,OMAR74@KKU.EDU.SA,BA,Account,LOW,40.8,Mailbox full
+T-1287,18/04/2026,huda64@kku.edu.sa,AR, wifi ,low,42.3,Page not loading
+T-1288,19/04/2026,omar27@kku.edu.sa,EE,Printing,MED,24.1,Mailbox full; room D-366
+T-1289,"Apr 19, 2026",huda57@kku.edu.sa,IS,LMS,high,8.9,Licence expired; call back 0571790857
+T-1289,"Apr 19, 2026",huda57@kku.edu.sa,IS,LMS,high,8.9,Licence expired; call back 0571790857
+T-1290,19/04/2026,lama16@kku.edu.sa,is,Wi-Fi,High,,Printer jammed
+T-1291,2026-04-19,reem34@kku.edu.sa,cs,lms,low,54.8,Page not loading
+T-1292,19/04/2026,sara96@kku.edu.sa,CS,Email,medium,12.0,Page not loading; room D-231
+T-1293,2026-04-19,reem48@kku.edu.sa,CS,WiFi,HIGH,8.1,Password reset needed
+T-1294,19/04/2026,reem46@kku.edu.sa,EE,LMS,LOW,48.0,Mailbox full; room D-251
+T-1295,"Apr 19, 2026",khalid18@kku.edu.sa,AR,wifi,Med,13.4,Student cannot connect; call back 0520677959
+T-1296,20/04/2026,lama11@kku.edu.sa,md,SOFTWARE,Medium,22.4,Printer jammed; call back 0577172116
+T-1297,2026-04-20,khalid61@kku.edu.sa,MD,Wi-Fi,medium,25.5,Mailbox full
+T-1298,"Apr 20, 2026",lama96@kku.edu.sa,EE, wifi ,medium,14.8,Licence expired
+T-1299,2026-04-20,ali20@kku.edu.sa,CS,software,medium,,Licence expired; room C-376
+T-1300,20/04/2026,SAAD25@KKU.EDU.SA,IS,Printing,HIGH,5.9,Student cannot connect
+T-1301,"Apr 20, 2026",khalid38@kku.edu.sa,MD,E-mail,High,3.2,Licence expired; call back 0587167807; room C-220
+T-1302,2026-04-20,khalid51@kku.edu.sa,CS,email,HIGH,5.5,Slow connection
+T-1303,20/04/2026,khalid85@kku.edu.sa, SC ,E-mail,Low,48.4,Student cannot connect; room A-429
+T-1304,"Apr 20, 2026",reem92@kku.edu.sa,cs,email,medium,69.5,Printer jammed
+T-1305,2026-04-20,saad65@kku.edu.sa,SC,ACCOUNT ,Medium,16.1,Licence expired; room B-305
+T-1306,"Apr 21, 2026",KHALID33@KKU.EDU.SA,AR,ACCOUNT ,High,26.6,Licence expired; call back 0545922746
+T-1307,21/04/2026,omar23@kku.edu.sa,MD,Lms,Low,95.5,Student cannot connect; call back 0519727722; room C-200
+T-1307,21/04/2026,omar23@kku.edu.sa,MD,Lms,Low,95.5,Student cannot connect; call back 0519727722; room C-200
+T-1308,2026-04-21,saad16@kku.edu.sa,CS,Printing,low,65.9,Student cannot connect
+T-1309,21/04/2026,FAHAD36@KKU.EDU.SA,BA,lms,High,3.3,Password reset needed; call back 0540394485
+T-1310,21/04/2026,reem24@kku.edu.sa,CS, wifi ,medium,10.8,Page not loading; call back 0521450396; room A-217
+T-1311,21/04/2026,huda32@kku.edu.sa,IS,wifi,high,5.3,Slow connection
+T-1312,21/04/2026,reem93@kku.edu.sa,EE,E-mail,High,5.2,Mailbox full
+T-1313,21/04/2026,lama73@kku.edu.sa,MD,wifi,Med,6.7,Mailbox full
+T-1314,"Apr 21, 2026",ali16@kku.edu.sa,IS, wifi ,,49.2,Student cannot connect; call back 0528402059
+T-1314,"Apr 21, 2026",ali16@kku.edu.sa,IS, wifi ,,49.2,Student cannot connect; call back 0528402059
+T-1315,2026-04-21,omar80@kku.edu.sa,IS,LMS,HIGH,6.6,Page not loading; room A-105
+T-1316,2026-04-21,fahad37@kku.edu.sa,SC,SOFTWARE,low,76.7,Password reset needed; call back 0519864606; room A-403
+T-1317,22/04/2026,fahad32@kku.edu.sa,lw,email,Medium,13.2,Student cannot connect; call back 0538217033
+T-1318,"Apr 22, 2026",khalid79@kku.edu.sa, BA ,lms,MED,27.8,Student cannot connect; room A-368
+T-1318,"Apr 22, 2026",khalid79@kku.edu.sa, BA ,lms,MED,27.8,Student cannot connect; room A-368
+T-1319,2026-04-22,saad31@kku.edu.sa,MD,printing,LOW,,Printer jammed; call back 0528569555
+T-1320,2026-04-22,ali25@kku.edu.sa,EE,Wi-Fi,Med,49.7,Printer jammed
+T-1321,2026-04-22,lama60@kku.edu.sa,IS,account,Med,48.6,Printer jammed; room A-154
+T-1322,22/04/2026,fahad41@kku.edu.sa,LW,E-mail,Medium,27.2,Student cannot connect; call back 0598896498
+T-1323,"Apr 22, 2026",khalid61@kku.edu.sa,MD,wifi,HIGH,,Password reset needed; call back 0519216407; room D-355
+T-1324,22/04/2026,saad92@kku.edu.sa,CS,Account,medium,19.4,Licence expired; call back 0533831729; room A-208
+T-1325,22/04/2026,noor34@kku.edu.sa,AR,Lms,Low,28.6,Printer jammed
+T-1326,2026-04-22,omar78@kku.edu.sa,LW,Wi-Fi,Medium,11.8,Mailbox full
+T-1327,"Apr 22, 2026",sara21@kku.edu.sa,AR,Software,low,58.2,Page not loading; room D-495
+T-1328,"Apr 22, 2026",sara54@kku.edu.sa,IS,Email,HIGH,3.9,Licence expired; call back 0579995577; room D-317
+T-1329,2026-04-23,fahad61@kku.edu.sa,MD,SOFTWARE,medium,18.6,Printer jammed; call back 0557823708
+T-1330,"Apr 23, 2026",NOOR26@KKU.EDU.SA, CS ,Software,medium,11.1,Printer jammed; call back 0532298771; room A-356
+T-1331,23/04/2026,lama62@kku.edu.sa,MD,ACCOUNT ,LOW,85.9,Student cannot connect; room A-468
+T-1332,23/04/2026,omar51@kku.edu.sa, MD ,LMS,medium,9.2,Printer jammed; call back 0559272798; room C-445
+T-1333,23/04/2026,noor72@kku.edu.sa,cs,printing,LOW,53.5,Printer jammed; call back 0563981091; room C-237
+T-1334,23/04/2026,noor12@kku.edu.sa,CS,email,HIGH,4.3,Password reset needed; call back 0548828532; room C-369
+T-1335,2026-04-24,huda27@kku.edu.sa,BA,WiFi,Medium,16.6,Page not loading; call back 0526091720
+T-1336,"Apr 24, 2026",huda44@kku.edu.sa,CS,WiFi,LOW,111.1,Licence expired
+T-1337,2026-04-24,omar79@kku.edu.sa,CS,printing,,71.4,Student cannot connect; room B-207
+T-1338,2026-04-24,ali78@kku.edu.sa,EE, wifi ,medium,10.3,Slow connection; call back 0522045310; room C-362
+T-1339,2026-04-24,noor44@kku.edu.sa,cs,email,Med,32.3,Student cannot connect; room D-495
+T-1340,2026-04-25,huda25@kku.edu.sa,AR,Account,LOW,136.4,Mailbox full
+T-1341,2026-04-25,omar21@kku.edu.sa,CS,LMS,medium,14.0,Page not loading; call back 0540683147
+T-1342,26/04/2026,saad55@kku.edu.sa,IS,Lms,low,71.0,Page not loading; call back 0560526205; room D-379
+T-1343,2026-04-26,sara89@kku.edu.sa,IS,Wi-Fi,Low,33.3,Student cannot connect; call back 0590450567; room D-259
+T-1344,"Apr 26, 2026",NOOR40@KKU.EDU.SA,BA,Software,High,3.8,Slow connection; room B-324
+T-1345,26/04/2026,fahad24@kku.edu.sa,SC,E-mail,MED,6.5,Printer jammed; call back 0533241710; room C-301
+T-1346,2026-04-26,omar34@kku.edu.sa,LW,wifi,low,46.6,Page not loading; call back 0554192541
+T-1347,26/04/2026,reem64@kku.edu.sa,IS,Email,Low,69.1,Licence expired
+T-1348,"Apr 26, 2026",lama39@kku.edu.sa, CS ,Email,low,96.5,Slow connection; room C-135
+T-1349,"Apr 26, 2026",huda13@kku.edu.sa,SC,Printing,medium,17.5,Slow connection; room B-117
+T-1350,"Apr 27, 2026",noor75@kku.edu.sa,EE,Lms,high,3.5,Password reset needed; call back 0562417825
+T-1351,"Apr 27, 2026",huda27.at.kku.edu.sa,CS,WiFi,HIGH,11.5,Page not loading; room D-234
+T-1352,27/04/2026,ali87@kku.edu.sa,CS, wifi ,high,6.1,Slow connection; room B-171
+T-1353,27/04/2026,reem67@kku.edu.sa,CS,printing,MED,25.6,Student cannot connect; room A-352
+T-1354,27/04/2026,ali32@kku.edu.sa,BA,Printing,low,55.2,Password reset needed; call back 0530509279; room D-240
+T-1355,"Apr 27, 2026",lama35@kku.edu.sa,IS,Wi-Fi,HIGH,9.1,Licence expired
+T-1356,28/04/2026,huda55@kku.edu.sa,SC,SOFTWARE,,39.1,Mailbox full
+T-1357,"Apr 28, 2026",lama16@kku.edu.sa, CS ,lms,Med,28.5,Printer jammed; call back 0579985158; room B-158
+T-1358,"Apr 28, 2026",sara87@kku.edu.sa, CS ,E-mail,MED,17.9,Printer jammed; call back 0545475643; room A-454
+T-1359,"Apr 28, 2026",huda53@kku.edu.sa,EE,Lms,medium,14.8,Printer jammed; call back 0585375117
+T-1360,28/04/2026,saad95@kku.edu.sa,MD,Lms,medium,13.7,Student cannot connect
+T-1361,28/04/2026,SAAD71@KKU.EDU.SA,CS,LMS,medium,19.6,Student cannot connect; room B-352
+T-1362,"Apr 28, 2026",fahad69@kku.edu.sa,AR,Account,medium,13.3,Mailbox full; call back 0578566890
+T-1363,2026-04-28,reem43@kku.edu.sa,lw,Account,Medium,20.3,Licence expired
+T-1364,2026-04-28,ali37@kku.edu.sa,cs,wifi,MED,25.9,Student cannot connect; call back 0592458903
+T-1365,2026-04-28,omar40@kku.edu.sa,AR,account,HIGH,4.6,Mailbox full
+T-1366,"Apr 29, 2026",huda97@kku.edu.sa,BA,Email,Medium,20.9,Printer jammed; room C-160
+T-1367,29/04/2026,reem75.at.kku.edu.sa,IS,wifi,Medium,20.4,Slow connection; room C-102
+T-1368,29/04/2026,khalid31@kku.edu.sa,AR,LMS,MED,12.9,Student cannot connect; room A-165
+T-1369,2026-04-29,fahad34@kku.edu.sa,MD,Email,low,107.4,Licence expired; call back 0526935560; room A-279
+T-1370,29/04/2026,fahad87@kku.edu.sa,LW,LMS,low,33.3,Mailbox full; room C-196
+T-1371,2026-04-30,fahad21@kku.edu.sa,IS,Printing,Medium,45.5,Password reset needed; call back 0561529832
+T-1372,30/04/2026,ALI81@KKU.EDU.SA,IS,lms,high,9.4,Printer jammed; call back 0511959747; room C-466
+T-1373,"Apr 30, 2026",reem14@kku.edu.sa,AR,Email,MED,11.7,Mailbox full
+T-1374,"Apr 30, 2026",REEM69@KKU.EDU.SA, MD ,LMS,MED,5.3,Slow connection; room C-318
+T-1375,2026-04-30,FAHAD59@KKU.EDU.SA,CS,LMS,LOW,63.4,Slow connection; call back 0586764106; room D-421
+T-1376,"Apr 30, 2026",sara84@kku.edu.sa,ee,printing,Med,14.0,Licence expired; room C-140
+T-1377,"Apr 30, 2026",khalid53@kku.edu.sa,BA,software,low,61.7,Student cannot connect; call back 0576847370
+T-1378,2026-04-30,sara28@kku.edu.sa,BA, wifi ,LOW,36.7,Licence expired; call back 0583211447
+T-1379,"Apr 30, 2026",ali22@kku.edu.sa,CS,lms,High,4.4,Student cannot connect; call back 0528432052
+T-1380,30/04/2026,khalid82@kku.edu.sa, CS ,Software,Low,44.7,Printer jammed
+T-1381,30/04/2026,khalid98@kku.edu.sa,IS,LMS,medium,22.1,Printer jammed; call back 0558805447; room D-304
+T-1382,30/04/2026,ali36@kku.edu.sa,LW, wifi ,low,22.1,Licence expired; call back 0577806762
+T-1383,01/05/2026,REEM57@KKU.EDU.SA,MD,software,,35.4,Password reset needed; room C-171
+T-1384,01/05/2026,ali75@kku.edu.sa,IS,E-mail,Low,43.4,Password reset needed; call back 0560832886
+T-1385,"May 02, 2026",REEM85@KKU.EDU.SA, BA ,printing,low,40.6,Printer jammed
+T-1386,2026-05-02,lama78@kku.edu.sa, SC ,Lms,low,unknown,Printer jammed
+T-1387,"May 02, 2026",SARA30@KKU.EDU.SA,LW,account,medium,10.9,Student cannot connect; call back 0596465344
+T-1388,"May 02, 2026",huda41@kku.edu.sa,CS,software,LOW,74.4,Page not loading; call back 0540361290; room B-102
+T-1389,"May 02, 2026",ali18@kku.edu.sa, AR ,Email,Medium,16.8,Page not loading; call back 0582994992; room D-219
+T-1390,2026-05-03,khalid25@kku.edu.sa,is,SOFTWARE,High,1.6,Printer jammed; call back 0526797365; room A-368
+T-1391,03/05/2026,reem40@kku.edu.sa, IS , wifi ,,14.2,Licence expired; call back 0566672859; room A-137
+T-1392,03/05/2026,khalid22@kku.edu.sa, EE ,E-mail,Low,29.5,Page not loading; call back 0574846750; room A-151
+T-1393,2026-05-03,huda32@kku.edu.sa,IS,WiFi,LOW,58.2,Licence expired; call back 0565640632; room C-466
+T-1394,03/05/2026,reem94@kku.edu.sa,IS,SOFTWARE,Med,9.6,Student cannot connect; call back 0574377770; room A-408
+T-1395,"May 03, 2026",ali26@kku.edu.sa,CS,Wi-Fi,HIGH,4.7,Mailbox full
+T-1396,"May 03, 2026",noor29@kku.edu.sa,ba,Software,medium,13.5,Slow connection; call back 0582088436; room A-102
+T-1397,2026-05-03,fahad84.at.kku.edu.sa,BA,software,high,1.4,Printer jammed
+T-1398,"May 03, 2026",khalid52@kku.edu.sa, CS ,Software,MED,6.1,Printer jammed; room C-392
+T-1399,03/05/2026,lama56@kku.edu.sa, EE , wifi ,medium,13.3,Slow connection; room A-397
+T-1400,2026-05-03,lama67@kku.edu.sa,AR,ACCOUNT ,low,56.4,Licence expired; call back 0510705819
+T-1401,2026-05-03,FAHAD39@KKU.EDU.SA,EE,Wi-Fi,Low,71.4,Licence expired; call back 0556466675; room A-147
+T-1402,2026-05-04,huda93@kku.edu.sa,LW, wifi ,high,6.1,Printer jammed; room A-427
+T-1403,2026-05-04,noor96@kku.edu.sa,AR,email,High,4.7,Student cannot connect; call back 0515046949; room A-143
+T-1404,04/05/2026,reem72@kku.edu.sa,IS, wifi ,medium,13.1,Slow connection
+T-1405,2026-05-04,khalid59@kku.edu.sa,CS,WiFi,low,99.8,Printer jammed; call back 0586514821
+T-1406,"May 04, 2026",huda12@kku.edu.sa,EE,Wi-Fi,Med,19.8,Mailbox full
+T-1407,2026-05-05,khalid44@kku.edu.sa,SC,Email,LOW,29.3,Password reset needed; call back 0545312010
+T-1408,2026-05-05,fahad70@kku.edu.sa,BA,software,Low,57.4,Page not loading; call back 0552316014
+T-1409,"May 05, 2026",huda24@kku.edu.sa,EE,email,Medium,14.2,Page not loading; call back 0588655616
+T-1410,2026-05-05,reem46@kku.edu.sa,IS,wifi,Med,7.5,Mailbox full; call back 0560374527
+T-1411,05/05/2026,noor52@kku.edu.sa,CS,Lms,high,8.6,Password reset needed; call back 0512811207; room C-387
+T-1411,05/05/2026,noor52@kku.edu.sa,CS,Lms,high,8.6,Password reset needed; call back 0512811207; room C-387
+T-1412,05/05/2026,sara41@kku.edu.sa,AR,SOFTWARE,medium,23.6,Mailbox full
+T-1413,"May 05, 2026",noor45@kku.edu.sa,IS,Lms,MED,13.5,Password reset needed; room D-495
+T-1414,05/05/2026,khalid50@kku,CS,Email,low,44.8,Student cannot connect; call back 0546061522; room B-146
+T-1415,06/05/2026,noor23@kku.edu.sa,SC,Wi-Fi,LOW,21.2,Licence expired
+T-1416,"May 06, 2026",saad81@kku.edu.sa,MD,Lms,Med,7.7,Printer jammed; room D-469
+T-1417,2026-05-07,omar14@kku.edu.sa,IS,LMS,MED,21.4,Student cannot connect; call back 0567412013
+T-1418,"May 07, 2026",khalid30@kku.edu.sa, EE ,E-mail,high,1.3,Printer jammed; call back 0557559673
+T-1419,"May 07, 2026",omar63@kku.edu.sa,ar,WiFi,Low,81.3,Page not loading; room D-497
+T-1420,2026-05-07,KHALID70@KKU.EDU.SA,BA,WiFi,Medium,8.7,Slow connection; room A-148
+T-1421,08/05/2026,ali66@kku.edu.sa,CS,printing,low,,Student cannot connect; call back 0583646473
+T-1422,2026-05-08,lama12@kku.edu.sa,BA,Wi-Fi,medium,14.6,Page not loading
+T-1423,09/05/2026,omar96@kku.edu.sa,EE,WiFi,high,15.0,Licence expired; call back 0594090926
+T-1423,09/05/2026,omar96@kku.edu.sa,EE,WiFi,high,15.0,Licence expired; call back 0594090926
+T-1424,2026-05-09,sara33@kku.edu.sa,IS,LMS,MED,,Licence expired; room A-146
+T-1425,2026-05-10,noor80@kku.edu.sa,EE,wifi,HIGH,8.5,Student cannot connect; call back 0566490414; room A-417
+T-1426,10/05/2026,lama69@kku.edu.sa,CS,account,Medium,9.6,Password reset needed; room D-373
+T-1427,2026-05-10,fahad57@kku.edu.sa,SC,Software,MED,72.0,Page not loading; room A-306
+T-1428,2026-05-10,fahad38@kku.edu.sa,ar,printing,HIGH,11.3,Password reset needed
+T-1429,11/05/2026,saad93@kku.edu.sa,EE,Printing,medium,6.5,Password reset needed
+T-1430,2026-05-11,fahad66@kku.edu.sa,BA,wifi,Low,45.4,Slow connection; room B-434
+T-1431,11/05/2026,ali19@kku.edu.sa,BA,ACCOUNT ,,22.1,Licence expired; call back 0565960869; room C-174
+T-1432,11/05/2026,FAHAD84@KKU.EDU.SA,AR,LMS,,64.5,Licence expired
+T-1433,2026-05-11,fahad79@kku.edu.sa,BA, wifi ,medium,12.3,Page not loading; call back 0542794450
+T-1434,2026-05-12,reem22@kku.edu.sa,SC,account,Low,62.6,Slow connection; room B-254
+T-1435,2026-05-12,LAMA84@KKU.EDU.SA,AR,Lms,MED,23.7,Student cannot connect; call back 0588256676; room B-474
+T-1436,"May 12, 2026",omar71@kku.edu.sa,CS,software,MED,35.3,Page not loading; call back 0576281022; room B-309
+T-1437,2026-05-12,ali36@kku.edu.sa,CS,email,low,27.4,Student cannot connect; call back 0597168211; room A-380
+T-1438,2026-05-13,noor92@kku.edu.sa,EE,Account,Medium,29.0,Student cannot connect
+T-1439,13/05/2026,fahad79@kku.edu.sa,IS,Wi-Fi,LOW,n/a,Mailbox full
+T-1440,2026-05-14,lama22@kku.edu.sa,MD,Software,Low,77.2,Student cannot connect; room C-372
+T-1441,2026-05-14,noor91@kku.edu.sa,IS, wifi ,low,47.1,Printer jammed; call back 0519438421
+T-1442,14/05/2026,reem26@kku.edu.sa, BA ,wifi,medium,11.4,Licence expired; call back 0587901170
+T-1443,2026-05-14,fahad16@kku.edu.sa,CS,lms,Low,72.7,Licence expired; room B-376
+T-1444,2026-05-14,khalid31@kku.edu.sa,cs,Software,Medium,20.4,Licence expired; room B-453
+T-1445,2026-05-14,saad37@kku.edu.sa,CS,Printing,MED,22.9,Slow connection
+T-1446,"May 14, 2026",reem49@kku.edu.sa,CS,lms,medium,7.6,Mailbox full; call back 0549214754
+T-1447,14/05/2026,ali53@kku.edu.sa,AR, wifi ,MED,15.5,Mailbox full; call back 0595796561
+T-1448,2026-05-14,OMAR36@KKU.EDU.SA,BA,LMS,MED,24.6,Password reset needed; call back 0567292164; room D-137
+T-1449,"May 15, 2026",omar47@kku.edu.sa,AR,software,MED,34.1,Page not loading; call back 0512226660
+T-1450,"May 17, 2026",noor17@kku.edu.sa,IS,Software,Medium,15.1,Printer jammed; call back 0527089929
+T-1451,17/05/2026,omar77@kku.edu.sa,CS,SOFTWARE,Med,23.3,Printer jammed; room D-498
+T-1452,17/05/2026,huda46@kku.edu.sa,is,Email,low,38.9,Student cannot connect; call back 0533092402; room C-167
+T-1453,2026-05-17,noor76@kku.edu.sa,CS,Lms,low,66.4,Slow connection; call back 0534989029
+T-1454,18/05/2026,noor24@kku.edu.sa,EE,WiFi,low,22.2,Licence expired
+T-1455,18/05/2026,lama77@kku.edu.sa,lw,Lms,Low,80.0,Page not loading; call back 0512934409; room A-121
+T-1456,2026-05-18,fahad55@kku.edu.sa,CS,Wi-Fi,low,55.7,Licence expired; call back 0540106684; room C-146
+T-1457,18/05/2026,huda70@kku.edu.sa,CS,lms,LOW,109.5,Password reset needed; call back 0561638230; room D-257
+T-1458,"May 18, 2026",omar42@kku,LW,account,low,62.5,Page not loading; call back 0523908975
+T-1459,"May 18, 2026",noor47@kku.edu.sa,SC,lms,LOW,29.3,Password reset needed
+T-1460,19/05/2026,reem21@kku.edu.sa,CS,wifi,Med,,Password reset needed; call back 0564007819; room B-222
+T-1461,2026-05-19,noor80@kku.edu.sa,CS, wifi ,Low,32.7,Licence expired; room A-229
+T-1462,2026-05-19,khalid78@kku.edu.sa,MD,Wi-Fi,Med,55.8,Licence expired; call back 0547942377
+T-1463,"May 19, 2026",NOOR56@KKU.EDU.SA,BA,software,medium,25.2,Page not loading
+T-1464,"May 19, 2026",khalid55@kku.edu.sa,CS,account,Med,57.8,Slow connection; call back 0521600764; room A-215
+T-1464,"May 19, 2026",khalid55@kku.edu.sa,CS,account,Med,57.8,Slow connection; call back 0521600764; room A-215
+T-1465,"May 19, 2026",fahad22@kku.edu.sa,MD,Email,Med,22.9,Student cannot connect; call back 0585512811; room A-109
+T-1466,19/05/2026,huda24@kku.edu.sa,IS,WiFi,Low,55.8,Slow connection
+T-1467,2026-05-20,fahad27@kku.edu.sa,BA,Lms,Med,28.0,Page not loading; room D-234
+T-1468,20/05/2026,huda86@kku.edu.sa,LW,wifi,Medium,8.2,Password reset needed; room D-408
+T-1469,20/05/2026,omar88@kku.edu.sa,MD,Account,MED,8.4,Printer jammed; room A-292
+T-1470,2026-05-20,saad56@kku.edu.sa,LW,account,medium,16.2,Page not loading; call back 0581320385; room A-129
+T-1471,21/05/2026,SARA71@KKU.EDU.SA,MD,Account,medium,11.8,Printer jammed; room A-342
+T-1472,"May 21, 2026",khalid64@kku.edu.sa, MD ,email,MED,19.2,Printer jammed
+T-1473,2026-05-21,sara39@kku.edu.sa,sc,Account,LOW,47.6,Password reset needed; room A-331
+T-1474,"May 22, 2026",reem31@kku.edu.sa,MD,printing,low,44.2,Student cannot connect; call back 0569333237; room C-265
+T-1475,2026-05-23,khalid23@kku.edu.sa,BA,Lms,MED,9.3,Slow connection; room B-430
+T-1476,"May 23, 2026",reem89@kku.edu.sa,BA,lms,Med,,Page not loading; call back 0524641168
+T-1477,"May 24, 2026",reem54@kku.edu.sa,SC,WiFi,medium,40.5,Printer jammed; call back 0598247177
+T-1478,2026-05-24,saad16@kku.edu.sa, IS ,E-mail,high,9.0,Printer jammed; call back 0519297107
+T-1479,"May 24, 2026",lama31@kku.edu.sa,CS,printing,High,5.0,Student cannot connect
+T-1480,"May 25, 2026",noor97@kku.edu.sa,CS,account,high,2.7,Printer jammed
+T-1481,25/05/2026,sara20@kku.edu.sa,AR,E-mail,Med,,Printer jammed; room C-233
+T-1482,"May 25, 2026",lama52@kku.edu.sa,SC,WiFi,LOW,37.2,Mailbox full
+T-1483,25/05/2026,sara62@kku.edu.sa,sc,LMS,Med,19.9,Student cannot connect; room C-384
+T-1484,2026-05-26,saad54@kku.edu.sa,EE,LMS,Low,53.7,Student cannot connect; room D-390
+T-1485,2026-05-26,KHALID59@KKU.EDU.SA,sc,Printing,low,42.2,Password reset needed; call back 0538151582
+T-1486,"May 26, 2026",saad31@kku.edu.sa,SC,SOFTWARE,medium,14.6,Licence expired; call back 0534649122; room A-429
+T-1487,2026-05-26,reem61@kku.edu.sa,IS,email,low,103.9,Password reset needed; call back 0573122458; room B-447
+T-1488,26/05/2026,OMAR12@KKU.EDU.SA,EE,ACCOUNT ,,19.0,Password reset needed; room D-473
+T-1489,"May 27, 2026",fahad30@kku.edu.sa,CS, wifi ,low,67.5,Mailbox full; call back 0554202538
+T-1490,28/05/2026,saad54@kku,CS,SOFTWARE,LOW,41.0,Printer jammed; room B-136
+T-1491,"May 28, 2026",fahad25@kku.edu.sa, EE ,software,LOW,47.7,Password reset needed; room D-188
+T-1492,2026-05-28,sara50@kku.edu.sa,BA,software,low,18.4,Printer jammed; room C-417
+T-1493,"May 28, 2026",fahad78@kku.edu.sa,EE,printing,Med,25.4,Password reset needed
+T-1494,31/05/2026,lama45@kku.edu.sa,EE,email,High,6.9,Printer jammed; call back 0578237453
+T-1495,2026-05-31,ali13@kku.edu.sa,BA,Wi-Fi,MED,14.2,Mailbox full; call back 0529365713
+T-1496,31/05/2026,khalid38@kku.edu.sa,IS,software,HIGH,4.0,Printer jammed; call back 0579895882
+T-1497,2026-06-01,ALI23@KKU.EDU.SA, EE , wifi ,Med,29.1,Slow connection; room A-214
+T-1498,2026-06-01,reem12@kku.edu.sa, MD ,WiFi,Medium,14.4,Printer jammed; call back 0566752654; room D-447
+T-1499,2026-06-01,OMAR30@KKU.EDU.SA,IS, wifi ,High,5.4,Mailbox full
+T-1500,"Jun 01, 2026",lama72@kku.edu.sa,IS,lms,HIGH,3.8,Page not loading; call back 0583190953; room C-386
+T-1501,01/06/2026,saad76@kku.edu.sa,EE, wifi ,HIGH,5.1,Printer jammed
+T-1502,01/06/2026,fahad23@kku.edu.sa,BA,Account,Medium,18.4,Printer jammed; room B-207
+T-1502,01/06/2026,fahad23@kku.edu.sa,BA,Account,Medium,18.4,Printer jammed; room B-207
+T-1503,01/06/2026,omar11@kku.edu.sa,SC,software,Low,46.6,Student cannot connect; call back 0573788278
+T-1504,2026-06-01,omar92@kku.edu.sa,SC,Account,MED,10.0,Mailbox full
+T-1505,2026-06-01,huda74@kku.edu.sa,SC,account,medium,13.4,Licence expired; room D-184
+T-1506,2026-06-02,SARA75@KKU.EDU.SA,md,lms,Medium,30.3,Page not loading; room D-319
+T-1507,2026-06-02,fahad44@kku.edu.sa,CS, wifi ,Medium,6.7,Printer jammed; call back 0536602625
+T-1508,02/06/2026,lama11@kku.edu.sa,BA, wifi ,Med,13.2,Page not loading; room A-334
+T-1509,2026-06-02,huda56@kku.edu.sa,IS, wifi ,Medium,18.0,Slow connection
+T-1510,"Jun 02, 2026",huda26@kku.edu.sa,BA,Account,LOW,91.8,Student cannot connect; call back 0538238395; room C-265
+T-1511,"Jun 02, 2026",lama26@kku.edu.sa,CS,WiFi,MED,16.8,Licence expired
+T-1512,2026-06-02,lama65@kku.edu.sa,MD,wifi,MED,10.8,Password reset needed; room B-302
+T-1513,"Jun 03, 2026",huda90@kku.edu.sa,EE, wifi ,Med,23.1,Student cannot connect; room C-325
+T-1514,03/06/2026,LAMA82@KKU.EDU.SA,CS,E-mail,Low,23.2,Password reset needed; call back 0597326666; room B-122
+T-1515,2026-06-03,sara79@kku.edu.sa,BA,Account,Med,35.5,Password reset needed; call back 0572429504; room C-464
+T-1516,"Jun 03, 2026",reem74@kku.edu.sa,IS,Account,MED,18.5,Page not loading; call back 0550386005
+T-1517,2026-06-04,huda33@kku.edu.sa,AR,account,Med,14.0,Licence expired; call back 0535636746
+T-1518,"Jun 04, 2026",fahad59@kku.edu.sa, IS ,account,medium,30.7,Licence expired; call back 0571962474; room D-125
+T-1519,04/06/2026,huda46@kku.edu.sa,is,Lms,MED,30.4,Slow connection; call back 0550829629; room B-266
+T-1520,2026-06-04,sara42@kku.edu.sa,BA,Wi-Fi,Low,89.9,Student cannot connect; call back 0553079949
+T-1521,2026-06-04,lama57@kku.edu.sa,CS,Printing,Medium,40.4,Slow connection; call back 0575556639; room C-328
+T-1522,04/06/2026,lama41@kku.edu.sa,LW,Printing,High,10.9,Printer jammed; call back 0537484158
+T-1523,"Jun 04, 2026",lama98@kku.edu.sa,SC,E-mail,MED,12.7,Licence expired; room C-352
+T-1524,06/06/2026,ali92@kku.edu.sa,LW,E-mail,Med,35.8,Student cannot connect; call back 0585941825; room B-463
+T-1525,"Jun 06, 2026",fahad37@kku.edu.sa,IS, wifi ,Low,56.0,Page not loading; call back 0589717306; room D-311
+T-1526,2026-06-07,sara11@kku.edu.sa,sc,software,Med,16.7,Licence expired; room A-366
+T-1527,07/06/2026,khalid85@kku.edu.sa,MD,WiFi,HIGH,3.2,Slow connection; room C-317
+T-1528,"Jun 07, 2026",lama19@kku.edu.sa,EE,LMS,Med,19.3,Student cannot connect; room C-246
+T-1529,2026-06-07,ali21@kku.edu.sa,IS,E-mail,LOW,65.4,Page not loading; call back 0594349154
+T-1530,"Jun 07, 2026",sara38@kku.edu.sa,BA,wifi,HIGH,5.1,Page not loading; call back 0556740762
+T-1531,"Jun 07, 2026",lama50@kku.edu.sa,CS,Software,Low,45.1,Password reset needed
+T-1532,2026-06-08,sara53@kku.edu.sa, AR ,WiFi,Medium,28.2,Password reset needed; call back 0557079466
+T-1533,"Jun 08, 2026",noor93@kku.edu.sa,MD,software,LOW,76.1,Printer jammed; call back 0580626919
+T-1534,08/06/2026,fahad47@kku.edu.sa,CS,wifi,low,93.7,Password reset needed; call back 0573512293
+T-1535,09/06/2026,sara26@kku.edu.sa,MD, wifi ,MED,13.6,Page not loading; call back 0521201075; room B-209
+T-1536,2026-06-09,NOOR71@KKU.EDU.SA,MD,WiFi,LOW,120.9,Student cannot connect; room A-194
+T-1537,2026-06-10,lama96@kku.edu.sa,MD,software,High,6.9,Slow connection; call back 0555841323; room A-242
+T-1537,2026-06-10,lama96@kku.edu.sa,MD,software,High,6.9,Slow connection; call back 0555841323; room A-242
+T-1538,10/06/2026,omar41@kku.edu.sa,IS,wifi,LOW,62.9,Student cannot connect
+T-1539,10/06/2026,noor74@kku.edu.sa,IS,SOFTWARE,LOW,46.9,Page not loading; room D-402
+T-1540,10/06/2026,fahad45@kku.edu.sa,IS, wifi ,medium,15.0,Licence expired
+T-1541,11/06/2026,fahad91@kku.edu.sa,CS,WiFi,Med,49.4,Licence expired; call back 0532945562; room C-295
+T-1542,2026-06-11,NOOR17@KKU.EDU.SA,CS,lms,Medium,26.0,Printer jammed; room C-122
+T-1543,11/06/2026,omar56@kku.edu.sa,SC,account,High,15.7,Student cannot connect
+T-1544,2026-06-11,lama94@kku.edu.sa,CS,email,Med,22.4,Mailbox full; call back 0597652896
+T-1545,11/06/2026,ali96@kku.edu.sa,BA,lms,low,27.8,Licence expired; room D-222
+T-1546,2026-06-11,SAAD78@KKU.EDU.SA,CS,E-mail,High,12.4,Mailbox full
+T-1547,2026-06-11,ali94@kku.edu.sa,AR,Lms,MED,20.8,Password reset needed
+T-1548,"Jun 11, 2026",ali29@kku.edu.sa,SC,SOFTWARE,high,4.6,Licence expired; call back 0511726117; room C-401
+T-1549,2026-06-12,huda17@kku.edu.sa,CS,WiFi,HIGH,4.5,Mailbox full; call back 0584344538; room B-325
+T-1550,13/06/2026,lama43@kku.edu.sa,ba,email,LOW,16.6,Page not loading
+T-1551,"Jun 13, 2026",REEM49@KKU.EDU.SA,IS,WiFi,Med,20.4,Password reset needed; room D-103
+T-1552,2026-06-14,fahad22@kku.edu.sa,CS,LMS,medium,n/a,Page not loading; call back 0537634496
+T-1553,2026-06-14,sara43@kku.edu.sa,ba,Account,low,49.2,Licence expired
+T-1554,2026-06-15,khalid72@kku.edu.sa,SC,WiFi,LOW,57.0,Slow connection
+T-1555,2026-06-15,khalid46@kku.edu.sa,IS,E-mail,,19.2,Password reset needed; room B-171
+T-1556,2026-06-15,ALI51@KKU.EDU.SA,CS, wifi ,LOW,87.9,Printer jammed; call back 0511640187; room D-452
+T-1557,"Jun 15, 2026",ali60@kku.edu.sa,IS,lms,Medium,14.4,Page not loading; room D-121
+T-1558,2026-06-15,lama61@kku.edu.sa,ba,software,MED,17.0,Page not loading
+T-1559,2026-06-15,noor43@kku.edu.sa,BA,lms,medium,33.1,Slow connection
+T-1560,2026-06-16,noor20@kku.edu.sa,CS,E-mail,LOW,84.9,Page not loading; call back 0577898531
+T-1561,16/06/2026,reem98@kku.edu.sa,MD,Lms,Medium,10.9,Printer jammed; call back 0531089405
+T-1562,16/06/2026,lama97@kku.edu.sa,IS,ACCOUNT ,MED,29.5,Student cannot connect
+T-1563,2026-06-17,noor21@kku.edu.sa,CS,Lms,low,66.9,Slow connection; call back 0589571360
+T-1564,"Jun 17, 2026",noor80@kku.edu.sa,EE,lms,low,37.3,Student cannot connect; call back 0541434155
+T-1565,17/06/2026,huda22@kku.edu.sa,ba,Printing,low,54.4,Page not loading; call back 0589657835
+T-1566,2026-06-17,sara98@kku.edu.sa,IS,Account,medium,16.0,Licence expired; call back 0532036409; room D-147
+T-1567,"Jun 18, 2026",REEM62@KKU.EDU.SA,CS,SOFTWARE,medium,19.0,Student cannot connect; call back 0562254453; room C-478
+T-1568,18/06/2026,huda86@kku.edu.sa,EE,WiFi,Med,11.4,Licence expired; call back 0518199547
+T-1569,2026-06-18,lama76@kku.edu.sa,CS,Wi-Fi,low,35.8,Page not loading; call back 0527394682
+T-1570,"Jun 18, 2026",noor19@kku.edu.sa,EE,LMS,MED,12.0,Slow connection; room A-301
+T-1571,"Jun 18, 2026",fahad41@kku.edu.sa,BA,email,LOW,30.7,Password reset needed
+T-1572,18/06/2026,reem84@kku.edu.sa,EE,Email,medium,16.5,Student cannot connect; call back 0583931224
+T-1573,"Jun 18, 2026",REEM81@KKU.EDU.SA,IS,Account,Med,35.7,Mailbox full; room D-497
+T-1574,"Jun 19, 2026",omar17@kku.edu.sa,EE,E-mail,low,73.1,Page not loading; room B-280
+T-1575,"Jun 20, 2026",saad12@kku.edu.sa,MD,Wi-Fi,medium,9.2,Slow connection; call back 0519738995; room C-240
+T-1576,20/06/2026,fahad56@kku.edu.sa,IS,LMS,MED,8.4,Slow connection; call back 0550775308; room D-205
+T-1577,20/06/2026,khalid53@kku.edu.sa,CS,printing,High,3.2,Student cannot connect; call back 0516113240; room C-401
+T-1578,20/06/2026,huda15@kku.edu.sa,BA, wifi ,Medium,12.6,Printer jammed
+T-1579,"Jun 20, 2026",saad39@kku.edu.sa,IS,Account,medium,9.8,Licence expired; call back 0520555319
+T-1580,"Jun 20, 2026",saad62@kku.edu.sa,AR,software,MED,13.3,Licence expired; call back 0588705943
+T-1581,21/06/2026,lama47@kku.edu.sa,IS,lms,medium,20.8,Student cannot connect
+T-1582,"Jun 21, 2026",ali14@kku.edu.sa,EE,email,LOW,99.7,Licence expired
+T-1583,2026-06-21,fahad64@kku.edu.sa,BA,Wi-Fi,Low,49.7,Licence expired; call back 0561642681
+T-1584,2026-06-21,noor83@kku.edu.sa,ba,wifi,MED,24.3,Slow connection; call back 0590722465
+T-1585,2026-06-21,khalid22@kku.edu.sa, IS ,LMS,Medium,15.8,Student cannot connect; call back 0531564940
+T-1586,"Jun 22, 2026",noor86@kku.edu.sa,LW,software,Medium,36.3,Licence expired; room D-143
+T-1587,"Jun 22, 2026",huda29@kku.edu.sa,CS,wifi,Med,35.3,Page not loading; call back 0569952408
+T-1588,2026-06-22,reem55@kku.edu.sa,EE,software,Medium,16.0,Printer jammed; room A-471
+T-1589,2026-06-23,huda54@kku.edu.sa,MD,wifi,Low,103.9,Student cannot connect
+T-1590,2026-06-24,reem56@kku.edu.sa,CS,wifi,LOW,132.6,Password reset needed; call back 0535733485
+T-1591,"Jun 24, 2026",sara89@kku.edu.sa,IS,Printing,Low,21.2,Licence expired; room C-212
+T-1592,2026-06-24,reem97@kku.edu.sa,CS,LMS,MED,49.8,Licence expired; room A-348
+T-1593,"Jun 25, 2026",lama41@kku.edu.sa,BA,software,Medium,18.8,Mailbox full; call back 0574416645
+T-1594,"Jun 25, 2026",noor40@kku.edu.sa,LW,Wi-Fi,LOW,47.2,Slow connection; room D-235
+T-1595,2026-06-25,sara65@kku.edu.sa,sc,lms,medium,,Student cannot connect; call back 0536360295; room C-309
+T-1596,2026-06-25,noor32@kku.edu.sa,ba,Wi-Fi,low,47.5,Student cannot connect
+T-1597,"Jun 25, 2026",noor93@kku.edu.sa,CS,Account,HIGH,2.6,Printer jammed; call back 0537552925
+T-1598,2026-06-25,noor95@kku.edu.sa,IS,WiFi,Low,36.6,Licence expired; room D-322
+T-1599,2026-06-25,lama53@kku.edu.sa,CS,LMS,Med,12.3,Licence expired; call back 0538427021; room A-449
+T-1600,"Jun 25, 2026",saad11@kku.edu.sa,MD,software,,74.9,Password reset needed; call back 0578130061
+T-1601,25/06/2026,fahad21@kku.edu.sa,MD,SOFTWARE,Medium,10.4,Page not loading; room A-332
+T-1602,26/06/2026,fahad79@kku.edu.sa,LW,SOFTWARE,medium,14.4,Mailbox full; call back 0579732473
+T-1603,"Jun 28, 2026",omar44@kku.edu.sa,CS,ACCOUNT ,High,3.3,Password reset needed; room A-426
+T-1604,28/06/2026,omar37@kku.edu.sa,CS, wifi ,Low,66.8,Page not loading; call back 0525909460; room B-448
+T-1605,2026-06-28,ALI32@KKU.EDU.SA,SC,printing,LOW,72.7,Mailbox full
+T-1605,2026-06-28,ALI32@KKU.EDU.SA,SC,printing,LOW,72.7,Mailbox full
+T-1606,28/06/2026,sara92@kku.edu.sa,CS,LMS,Medium,30.4,Page not loading; call back 0580242460; room C-324
+T-1607,"Jun 28, 2026",lama24@kku.edu.sa,MD,Software,Med,10.6,Page not loading; call back 0581383256
+T-1608,2026-06-28,SAAD82@KKU.EDU.SA,CS,printing,medium,22.4,Password reset needed
+T-1609,2026-06-29,reem74@kku.edu.sa,SC,Lms,MED,8.4,Student cannot connect; call back 0538887932
+T-1610,29/06/2026,saad24@kku.edu.sa,ba,WiFi,medium,40.0,Mailbox full; call back 0591073553; room C-194
+T-1611,29/06/2026,noor28@kku.edu.sa,MD,E-mail,LOW,54.4,Printer jammed; room A-476
+T-1612,"Jun 29, 2026",LAMA11@KKU.EDU.SA,IS,email,Med,18.9,Mailbox full; call back 0571627455; room C-241
+T-1613,"Jun 29, 2026",saad27@kku.edu.sa,EE,Printing,medium,17.4,Student cannot connect; call back 0529879216; room B-306
+T-1614,30/06/2026,LAMA93@KKU.EDU.SA,IS,lms,low,128.7,Slow connection
+T-1615,2026-06-30,OMAR20@KKU.EDU.SA,MD,E-mail,MED,23.9,Student cannot connect; call back 0556636659
+T-1616,"Jun 30, 2026",fahad48@kku.edu.sa,CS,account,HIGH,7.1,Page not loading
+T-1617,30/06/2026,omar56@kku.edu.sa,CS,Email,High,23.8,Page not loading; call back 0545929379; room D-170
+T-1618,"Jun 30, 2026",noor35@kku.edu.sa,IS,LMS,MED,28.4,Licence expired
+T-1619,"Jun 30, 2026",ali47.at.kku.edu.sa,MD,Printing,LOW,52.9,Mailbox full; call back 0559568612; room C-421

@@ -1,0 +1,50 @@
+[
+  {
+    "dept_code":"CS",
+    "dept_name":"Computer Science",
+    "college":"Computer Science",
+    "staff_count":60
+  },
+  {
+    "dept_code":"IS",
+    "dept_name":"Information Systems",
+    "college":"Computer Science",
+    "staff_count":45
+  },
+  {
+    "dept_code":"EE",
+    "dept_name":"Electrical Engineering",
+    "college":"Engineering",
+    "staff_count":70
+  },
+  {
+    "dept_code":"BA",
+    "dept_name":"Business Administration",
+    "college":"Business",
+    "staff_count":55
+  },
+  {
+    "dept_code":"MD",
+    "dept_name":"Medicine",
+    "college":"Medicine",
+    "staff_count":90
+  },
+  {
+    "dept_code":"LW",
+    "dept_name":"Law",
+    "college":"Law",
+    "staff_count":30
+  },
+  {
+    "dept_code":"AR",
+    "dept_name":"Arts",
+    "college":"Arts",
+    "staff_count":40
+  },
+  {
+    "dept_code":"SC",
+    "dept_name":"Science",
+    "college":"Science",
+    "staff_count":65
+  }
+]
